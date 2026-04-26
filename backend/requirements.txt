@@ -1,0 +1,13 @@
+langchain
+langchain-ollama
+langchain-chroma
+pypdf
+langchain_community
+transformers
+imapclient
+pyzmail36
+torch
+fastapi 
+uvicorn 
+pydantic
+python-multipart
